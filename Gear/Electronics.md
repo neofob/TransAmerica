@@ -14,6 +14,8 @@ All things Electronics.  It's 2013!
 
 *	Tripod: Gorillapod
 
+*	Contour camera to do time lapse (Kickstarter for GoPro Hero 4?)
+
 ### Computer
 
 *	Low-powered laptop with SD slot
