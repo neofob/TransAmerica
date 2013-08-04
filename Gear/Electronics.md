@@ -10,7 +10,8 @@ All things Electronics.  It's 2013!
 *	Contour camera to do time lapse (Kickstarter for GoPro Hero 4?)
 
 ### Computer
-*	Low-powered laptop with SD slot (upgraded to large SSD to store photos)
+*	Low-powered laptop with SD slot (a 256GB SSD should be enough
+	with 36 pictures/day)
 *	AC charger
 
 ### Power
