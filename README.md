@@ -3,7 +3,7 @@ TransAmerica
 
 Cycling Across America
 
-A tentative plan to ride across America from Yorktown, Virgina to
+A tentative plan to ride across America from Yorktown, Virginia to
 Portland, Oregon with detour to Ashville, North Carolina.
 
 **Key points must stop:**
