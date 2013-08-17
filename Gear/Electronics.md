@@ -15,8 +15,8 @@ All things Electronics.  It's 2013!
 *	AC charger
 
 ### Power
-*	Solar panel Goal Zero [Black Nomad 13][0]
-*	Goal Zero 21003 [Escape 150 Explorer][1] battery pack
+*	Solar panel 10W [Instapark][0]
+*	Anker [Astro E5][1] 15000mAh battery pack
 
 ### Others
 *	Android cellphone
@@ -29,5 +29,5 @@ All things Electronics.  It's 2013!
 
 *	Figure out how long the Contour can last on battery @ 1frame/60s
 
-[0]: http://www.amazon.com/Goal-Zero-12003-Black-Nomad/dp/B00A2F2U1K "Solar Panel"
-[1]: http://www.amazon.com/Goal-Zero-21003-Escape-Explorer/dp/B004GUEAOW "Escape 150"
+[0]: http://www.amazon.com/Instapark-Portable-Charger-Compatible-Devices/dp/B006ZRYU9O "Solar Panel"
+[1]: http://www.amazon.com/Anker-Ultra-high-Thunderbolt-Incredible-connectors/dp/B00D5T3QK4 "Astro E5"
