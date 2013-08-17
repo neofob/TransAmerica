@@ -15,3 +15,7 @@ Portland, Oregon with detour to Ashville, North Carolina.
 5. Fort Collins, CO
 6. Cheyenne, WY
 7. Portland, OR
+
+General map on Google's [map][0].
+
+[0]: http://goo.gl/maps/SFCqQ
