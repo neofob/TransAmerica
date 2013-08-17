@@ -2,9 +2,10 @@
 *   Bike
     *   Surly Disc trucker
 *   Trailer
-    *	Surly Bill (overkill)
-    *   Bob Ibex (minimalistic)
-    *   Burley Nomad (best?)
+    *	~~Surly Bill (overkill)~~
+    *   ~~Bob Ibex (minimalistic)~~
+    *   Burley Nomad (best, you are the One)
+    *   Burley Nomad cargo rack
 *	4 spare tubes
 *   1 spare tire
 *	Repair kit/bike pump
