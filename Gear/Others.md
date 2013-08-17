@@ -8,7 +8,7 @@
 *	Water filter
 
 ### Maps
-*	Printed maps for each section
+*	~~Printed maps for each section~~ Use google's map
 *	One Atlas map
 
 ### Odds and Ends
@@ -20,3 +20,6 @@
 *	Ziplock bags
 *	Toilette stuff
 *	Flare and beacon operates on 406MHz (SPOT)
+*	Black duct tape (wrap around seatpost to save space)
+*	Two water bottle
+*	One 100 oz camel bag
