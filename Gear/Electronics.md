@@ -2,7 +2,7 @@ All things Electronics.  It's 2013!
 
 ### Photography
 *	Camera: A Nikon full frame body
-*	Lens: one wide angle manual focus lense with Polarizer filter
+*	Lens: one wide angle manual focus lens with Polarizer filter
 *	SD cards: 4x16GB
 *	Battery: 2
 *	Battery charger: 120V AC charger
