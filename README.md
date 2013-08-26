@@ -1,7 +1,5 @@
-TransAmerica
-============
-
 Cycling Across America
+======================
 
 A tentative plan to ride across America from Yorktown, Virginia to
 Portland, Oregon with detour to Ashville, North Carolina.
@@ -17,5 +15,9 @@ Portland, Oregon with detour to Ashville, North Carolina.
 7. Portland, OR
 
 General map on Google's [map][0].
+
+*A good place to understand the present, and to ask questions about
+the future, is on the ground, traveling as slowly as possible.*  
+**The Revenge of Geography** -- Robert D. Kaplan
 
 [0]: http://goo.gl/maps/SFCqQ
