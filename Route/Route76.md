@@ -13,9 +13,12 @@
 **Total:** 205 miles
 
 ### Kentucky to Missouri
-| From          |       To           | Mileage |
-|:-------------:|:------------------:|--------:|
-| Elkhorn City  | [Hindman][6]       |      62 |
+| From              |       To     | Mileage |
+|:-----------------:|:------------:|--------:|
+| [Elkhorn City][6] | Hindman      |      62 |
+| [Hindman][7]      | Booneville   |      66 |
+| [Booneville][8]   | Berea        |      49 |
+| [Berea][9]        | Macville     |      62 |
 
 **Total:**
 
@@ -27,3 +30,6 @@
 [4]: http://www.gmap-pedometer.com/?r=6220038 "Rural Retreat to Rockdell"
 [5]: http://www.gmap-pedometer.com/?r=6220040 "Rockdell to Elkhorn City"
 [6]: http://www.gmap-pedometer.com/?r=6220049 "Elkhorn City to Hindman"
+[7]: http://www.gmap-pedometer.com/?r=6220062 "Hindman to Booneville"
+[8]: http://www.gmap-pedometer.com/?r=6220073 "Booneville to Berea"
+[9]: http://www.gmap-pedometer.com/?r=6220552 "Berea to Mackville"
