@@ -17,8 +17,13 @@
 |:-----------------:|:------------:|--------:|
 | [Elkhorn City][6] | Hindman      |      62 |
 | [Hindman][7]      | Booneville   |      66 |
+| Booneville        | Booneville   |   REST  |
 | [Booneville][8]   | Berea        |      49 |
-| [Berea][9]        | Macville     |      62 |
+| [Berea][9]        | Mackville    |      62 |
+| [Mckville][10]    | Hodgenville  |      58 |
+| [Hodgenville][11] | McDaniels    |      62 |
+| [McDaniels][12]   | Utica 	   |      50 |
+| Utica             | Utica 	   |   REST  |
 
 **Total:**
 
@@ -33,3 +38,6 @@
 [7]: http://www.gmap-pedometer.com/?r=6220062 "Hindman to Booneville"
 [8]: http://www.gmap-pedometer.com/?r=6220073 "Booneville to Berea"
 [9]: http://www.gmap-pedometer.com/?r=6220552 "Berea to Mackville"
+[10]: http://www.gmap-pedometer.com/?r=6221631 "Mackville to Hodgenville"
+[11]: http://www.gmap-pedometer.com/?r=6221633 "Hodgenville to McDaniels"
+[12]: http://www.gmap-pedometer.com/?r=6221638 "McDaniels to Utica"
