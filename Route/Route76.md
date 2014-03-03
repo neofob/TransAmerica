@@ -58,22 +58,71 @@
 |           312 |               1195 |
 
 ### Kansas to Colorado
-| Day | From              |    To         | Mileage |
-|----:|:-----------------:|:-------------:|--------:|
-| 21  | [Pittsburg][21]   | Chanute       |      58 |
-| 22  |  Chanute          | Chanute       |    REST |
-| 23  |  [Chanute][22]    | Cassoday      |      97 |
-| 24  |  [Cassoday][23]   | Buhler        |      69 |
-| 25  |  [Buhler][24]     | Larned        |      77 |
-| 26  |  [Larned][25]     | Bazine        |      54 |
-| 27  |  [Bazine][26]     | Scott City    |      67 |
-| 28  |  [Scott City][27] | Sheridan Lake |      76 |
-| 29  |  Sheridan Lake    | Sheridan Lake |    REST |
+| Day | From                |    To         | Mileage |
+|----:|:-------------------:|:-------------:|--------:|
+| 21  | [Pittsburg][21]     | Chanute       |      58 |
+| 22  | Chanute             | Chanute       |    REST |
+| 23  | [Chanute][22]       | Cassoday      |      97 |
+| 24  | [Cassoday][23]      | Buhler        |      69 |
+| 25  | [Buhler][24]        | Larned        |      77 |
+| 26  | [Larned][25]        | Bazine        |      54 |
+| 27  | [Bazine][26]        | Scott City    |      67 |
+| 28  | [Scott City][27]    | Sheridan Lake |      76 |
+| 29  | Sheridan Lake       | Sheridan Lake |    REST |
 
 | Segment Total | TransAmerica Total |
 |--------------:|-------------------:|
 |         498   |            1693    |
 
+
+
+### From Colorado to Wyoming
+| Day | From            |        To        | Mileage |
+|----:|:---------------:|:----------------:|--------:|
+| 30  | Sheridan Lake   | [Ordway][28]     |      88 |
+| 31  | Ordway          | [Pueblo][29]     |      48 |
+| 32  | Pueblo          | Pueblo           |   REST  |
+| 33  | Pueblo          | Pueblo           |   REST  |
+| 34  | Pueblo          | [Canon City][30] |      52 |
+| 35  | Canon City      | [Hartsel][31]    |      56 |
+| 36  | Hartsel         | [Blue River][32] |      37 |
+| 37  | Blue River      | [Kremmling][33]  |      63 |
+| 38  | Kremmling       |  Kremmling       |    REST |
+| 39  | Kremmling       | [Rand][34]       |      56 |
+| 40  | Rand            | [Riverside][35]  |      72 |
+
+| Segment Total | TransAmerica Total |
+|--------------:|-------------------:|
+|        472    |           2165     |
+
+### From Wyoming to Montana
+| Day |         From             |    To              | Mileage |
+|----:|:------------------------:|:------------------:|--------:|
+| 41  | [Riverside][36]          | Rawlins            |     64  |
+| 42  | [Rawlins][37]            | Jeffery City       |     67  |
+| 43  | [Jeffery City][38]       | Lander             |     60  |
+| 44  | Lander                   | Lander             |    REST |
+| 45  | Lander                   | Lander             |    REST |
+| 46  | [Lander][39]             | Dubois             |     76  |
+| 47  | [Dubois][40]             | Continental Divide |     40  |
+| 48  | [Continental Divide][41] | Grant Village      |     64  |
+| 49  | [Grant Village][42]      | Old Faithful       |     20  |
+| 50  | Old Faithful             | Old Faithful       |    REST |
+| 51  | [Old Faithful][43]       | West Yellowstone   |      30 |
+| 52  | West Yellowstone         | West Yellowstone   |    REST |
+
+| Segment Total | TransAmerica Total |
+|--------------:|-------------------:|
+|        421    |           2586     |
+
+### From Montana to Idaho
+| Day |         From             |    To              | Mileage |
+|----:|:------------------------:|:------------------:|--------:|
+| 53  |  West Yellowstone        | [Ennis][44]        |      72 |
+
+| Segment Total | TransAmerica Total |
+|--------------:|-------------------:|
+|         72    |           2658     |
 
 [0]: http://opencyclemap.org "open cycle map"
 [1]: http://www.gmap-pedometer.com "gmap-pedometer"
@@ -108,3 +157,23 @@
 [25]: http://www.gmap-pedometer.com/?r=6222842 "Larned to Bazine"
 [26]: http://www.gmap-pedometer.com/?r=6222851 "Bazine to Scott City"
 [27]: http://www.gmap-pedometer.com/?r=6222855 "Scott City to Sheridan Lake"
+[28]: http://www.gmap-pedometer.com/?r=6222894 "Sheridan Lake to Ordway"
+[29]: http://www.gmap-pedometer.com/?r=6222895 "Ordway to Pueblo"
+
+[30]: http://www.gmap-pedometer.com/?r=6222899 "Pueblo to Canon City"
+[31]: http://www.gmap-pedometer.com/?r=6222906 "Canon City to Hartsel"
+[32]: http://www.gmap-pedometer.com/?r=6222908 "Hartsel to Blue River"
+[33]: http://www.gmap-pedometer.com/?r=6222918 "Blue River to Kremmling"
+[34]: http://www.gmap-pedometer.com/?r=6222922 "Kremmling to Rand"
+
+[35]: http://www.gmap-pedometer.com/?r=6222926 "Rand to Riverside"
+[36]: http://www.gmap-pedometer.com/?r=6222932 "Riverside to Rawlins"
+[37]: http://www.gmap-pedometer.com/?r=6222939 "Rawlins to Jeffrey City"
+[38]: http://www.gmap-pedometer.com/?r=6222942 "Jeffery City to Lander"
+[39]: http://www.gmap-pedometer.com/?r=6222946 "Lander to Dubois"
+
+[40]: http://www.gmap-pedometer.com/?r=6222950 "Dubois to Continental Divide"
+[41]: http://www.gmap-pedometer.com/?r=6222954 "Continental Divide to Grant Village"
+[42]: http://www.gmap-pedometer.com/?r=6222962 "Grant Village to Old Faithful"
+[43]: http://www.gmap-pedometer.com/?r=6222971 "Old Faithful to West Yellowstone"
+[44]: http://www.gmap-pedometer.com/?r=6222974 "West Yellowstone to Ennis"
