@@ -8,4 +8,4 @@
 *   Baby powder for feet
 *   Cycling shoes
 *   Running shoes
-*   Sandals
+*   ~~Sandals~~
