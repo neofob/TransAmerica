@@ -116,13 +116,30 @@
 |        421    |           2586     |
 
 ### From Montana to Idaho
-| Day |         From             |    To              | Mileage |
-|----:|:------------------------:|:------------------:|--------:|
-| 53  |  West Yellowstone        | [Ennis][44]        |      72 |
+| Day |         From       |    To                | Mileage |
+|----:|:------------------:|:--------------------:|--------:|
+| 53  | West Yellowstone   | [Ennis][44]          |      72 |
+| 54  | Ennis              | [Dillon][45]         |      71 |
+| 55  | Dillon             | [Wisdom][46]         |      67 |
+| 56  | Wisdom             | [Darby][47]          |      57 |
+| 57  | Darby              | [Missoula][48]       |      67 |
+| 58  | Missoula           | Missoula             |    REST |
+| 59  | Missoula           | [Parachute Hill][49] |      57 |
 
 | Segment Total | TransAmerica Total |
 |--------------:|-------------------:|
-|         72    |           2658     |
+|        391    |           2977     |
+
+### From Idaho to Oregon
+| Day |         From           |    To                | Mileage |
+|----:|:----------------------:|:--------------------:|--------:|
+| 60  | [Parachute Hill][50]   |  Syringa             |      72 |
+| 61  | [Syringa][51]          |  White Bird          |      58 |
+
+
+| Segment Total | TransAmerica Total |
+|--------------:|-------------------:|
+|          130  |           3107     |
 
 [0]: http://opencyclemap.org "open cycle map"
 [1]: http://www.gmap-pedometer.com "gmap-pedometer"
@@ -177,3 +194,12 @@
 [42]: http://www.gmap-pedometer.com/?r=6222962 "Grant Village to Old Faithful"
 [43]: http://www.gmap-pedometer.com/?r=6222971 "Old Faithful to West Yellowstone"
 [44]: http://www.gmap-pedometer.com/?r=6222974 "West Yellowstone to Ennis"
+
+[45]: http://www.gmap-pedometer.com/?r=6224662 "Ennis to Dillon"
+[46]: http://www.gmap-pedometer.com/?r=6224667 "Dillon to Wisdom"
+[47]: http://www.gmap-pedometer.com/?r=6224669 "Wisdom to Darby"
+[48]: http://www.gmap-pedometer.com/?r=6224673 "Darby to Missoula"
+[49]: http://www.gmap-pedometer.com/?r=6224677 "Missoula to Parachute Hill"
+
+[50]: http://www.gmap-pedometer.com/?r=6224680 "Parachute Hill to Syringa"
+[51]: http://www.gmap-pedometer.com/?r=6224685 "Syringa to White Bird"
