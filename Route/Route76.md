@@ -135,11 +135,39 @@
 |----:|:----------------------:|:--------------------:|--------:|
 | 60  | [Parachute Hill][50]   |  Syringa             |      72 |
 | 61  | [Syringa][51]          |  White Bird          |      58 |
+| 62  | [White Bird][52]       |  New Meadows         |      64 |
+| 63  | [New Meadows][53]      |  Oxbow               |      87 |
+| 64  | Oxbow                  |  Oxbow               |    REST |
 
 
 | Segment Total | TransAmerica Total |
 |--------------:|-------------------:|
-|          130  |           3107     |
+|          281  |           3258     |
+
+### From Oregon to Astoria, Oregon to Hillsboro, Oregon
+| Day |         From       |    To                   | Mileage |
+|----:|:------------------:|:-----------------------:|--------:|
+| 65  | Oxbow              |  [Baker City][54]       |      69 |
+| 66  | Baker City         |  [Austin Junction][55]  |      51 |
+| 67  | Austin Junction    |  [Dayville][56]         |      62 |
+| 68  | Dayville           |  [Prineville][57]       |      85 |
+| 69  | Prineville         |  [Redmond][58]          |      20 |
+| 70  | Redmond            |  Redmond                |    REST |
+| 71  | Redmond            |  [McKenzie Bridge][59]  |      70 |
+| 72  | McKenzie Bridge    |  [Eugene][60]           |      65 |
+| 73  | Eugene             |  [Florence][61]         |      75 |
+| 74  | Florence           |  Florence               |    REST |
+| 75  | Florence           |  [Lincoln City][62]     |      74 |
+| 76  | Lincoln City       |  [Manzanita][63]        |      80 |
+| 77  | Manzanita          |  [Astoria][64]          |      40 |
+| 78  | Astoria            |  Astoria                |    REST |
+| 79  | Astoria            |  [Hillsboro][65]        |      99 |
+
+
+| Segment Total | TransAmerica Total |
+|--------------:|-------------------:|
+|        790    |           4048     |
+
 
 [0]: http://opencyclemap.org "open cycle map"
 [1]: http://www.gmap-pedometer.com "gmap-pedometer"
@@ -203,3 +231,20 @@
 
 [50]: http://www.gmap-pedometer.com/?r=6224680 "Parachute Hill to Syringa"
 [51]: http://www.gmap-pedometer.com/?r=6224685 "Syringa to White Bird"
+[52]: http://www.gmap-pedometer.com/?r=6224686 "White Bird to New Meadows"
+[53]: http://www.gmap-pedometer.com/?r=6224691 "New Meadows to Oxbow"
+[54]: http://www.gmap-pedometer.com/?r=6225275 "Oxbow to Baker City"
+
+[55]: http://www.gmap-pedometer.com/?r=6225295 "Baker City to Austin Junction"
+[56]: http://www.gmap-pedometer.com/?r=6225321 "Austin Junction to Dayville"
+[57]: http://www.gmap-pedometer.com/?r=6225519 "Dayville to Prineville"
+[58]: http://www.gmap-pedometer.com/?r=6225524 "Prineville to Redmond"
+[59]: http://www.gmap-pedometer.com/?r=6225532 "Redmond to McKenzie Bridge"
+
+[60]: http://www.gmap-pedometer.com/?r=6225552 "McKenzie Bridge to Eugene"
+[61]: http://www.gmap-pedometer.com/?r=6225622 "Eugene to Florence"
+[62]: http://www.gmap-pedometer.com/?r=6225624 "Florence to Lincoln City"
+[63]: http://www.gmap-pedometer.com/?r=6225626 "Lincoln City to Manzanita"
+[64]: http://www.gmap-pedometer.com/?r=6225629 "Manzanita to Astoria"
+
+[65]: http://www.gmap-pedometer.com/?r=6225633 "Astoria to Hillsboro"
