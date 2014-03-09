@@ -85,8 +85,8 @@
 | 33  | Pueblo          | Pueblo           |   REST  |
 | 34  | Pueblo          | [Canon City][30] |      52 |
 | 35  | Canon City      | [Hartsel][31]    |      56 |
-| 36  | Hartsel         | [Blue River][32] |      37 |
-| 37  | Blue River      | [Kremmling][33]  |      63 |
+| 36  | Hartsel         | [Frisco][32]     |      51 |
+| 37  | Frisco          | [Kremmling][33]  |      48 |
 | 38  | Kremmling       |  Kremmling       |    REST |
 | 39  | Kremmling       | [Rand][34]       |      56 |
 | 40  | Rand            | [Riverside][35]  |      72 |
@@ -207,8 +207,8 @@
 
 [30]: http://www.gmap-pedometer.com/?r=6222899 "Pueblo to Canon City"
 [31]: http://www.gmap-pedometer.com/?r=6222906 "Canon City to Hartsel"
-[32]: http://www.gmap-pedometer.com/?r=6222908 "Hartsel to Blue River"
-[33]: http://www.gmap-pedometer.com/?r=6222918 "Blue River to Kremmling"
+[32]: http://www.gmap-pedometer.com/?r=6228921 "Hartsel to Frisco"
+[33]: http://www.gmap-pedometer.com/?r=6228946 "Frisco to Kremmling"
 [34]: http://www.gmap-pedometer.com/?r=6222922 "Kremmling to Rand"
 
 [35]: http://www.gmap-pedometer.com/?r=6222926 "Rand to Riverside"
