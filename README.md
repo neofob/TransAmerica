@@ -1,18 +1,22 @@
 Cycling Across America
 ======================
 
-A tentative plan to ride across America from Yorktown, Virginia to
-Portland, Oregon with detour to Ashville, North Carolina.
+A tentative plan to ride across America from Blacksburg, Virginia to
+Astoria, Oregon by using Route 76 (TransAm).
 
-**Key points must stop:**
+**Interesting places:**
 
-1. Yorktown, VA
-2. Blacksburg, VA
-3. Asheville, NC
-4. St.Louis, MO
-5. Fort Collins, CO
-6. Cheyenne, WY
-7. Portland, OR
+1. Berea, KY
+2. Utica, KY
+3. Pittsburg, KS
+4. Sheridan Lake, CO
+5. Pueblo, CO
+6. Kremmling, CO
+7. Old Faithful, MT
+8. West Yellowstone, MT
+9. Missoula, MT
+10. Florence, OR
+11. Astoria, OR
 
 General map on Google's [map][0].
 
