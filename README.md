@@ -24,4 +24,4 @@ General map on Google's [map][0].
 the future, is on the ground, traveling as slowly as possible.*  
 **The Revenge of Geography** -- Robert D. Kaplan
 
-[0]: http://goo.gl/maps/SFCqQ
+[0]: http://goo.gl/maps/Wo4Td "Adventure Cycling routing"
