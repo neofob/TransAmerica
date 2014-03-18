@@ -11,6 +11,9 @@ terrain profile, speed?
 
 Update: [gmap-pedometer.com][1] seems to do the trick.
 
-[0]: http://goo.gl/maps/Ut7K3 "Tentative map"
+Other references:  
+* Steve's [map][2]
 
+[0]: http://goo.gl/maps/Ut7K3 "Tentative map"
 [1]: http://www.gmap-pedometer.com/ "gmap-pedometer.com"
+[2]: http://tsteven4.qwestoffice.net/maps/TransAmericaRoute.html
