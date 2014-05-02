@@ -22,6 +22,7 @@ All things Electronics.  It's 2013!
 
 ### Others
 *	Android cellphone
+*	USB OTG adapter
 *	USB-charged flashlight
 *	Heart rate monitor
 *	Extra battery for heart rate monitor
