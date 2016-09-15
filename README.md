@@ -1,6 +1,8 @@
 Cycling Across America
 ======================
 
+A photographic impression of my trip under [21TransAmerica][1] page on Facebook.
+
 A tentative plan to ride across America from Blacksburg, Virginia to
 Astoria, Oregon by using Route 76 (TransAm).
 
@@ -25,3 +27,4 @@ the future, is on the ground, traveling as slowly as possible.*
 **The Revenge of Geography** -- Robert D. Kaplan
 
 [0]: http://goo.gl/maps/Wo4Td "Adventure Cycling routing"
+[1]: https://www.facebook.com/21TransAmerica "Facebook webpage"
