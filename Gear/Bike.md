@@ -1,17 +1,20 @@
-### Bicycle
-*   Bike
-    *   Surly Disc Trucker, 26" 52cm frame
-*   Trailer
-    *	~~Surly Bill (overkill)~~
-    *   ~~Bob Ibex (minimalistic)~~
-    *   ~~Burley Nomad (best, you are the One)~~
-    *   ~~Burley Nomad cargo rack~~
+`Bicycle`
+========
+* Bike
+    * Surly Disc Trucker, 26" 52cm frame
+
 * Rear rack
-    *   Deuter Rack Pack Uni Pannier bags
-* Front rack
+    * Deuter Rack Pack Uni Pannier bags
+    * Preferably, Ortlieb bags
+* Handle bar stuff
+    * [Ibera Bike Handlebar Bag][0]
+    * [Cuesheet holder][1]
+
 
 *	2 spare tubes
-*   1 spare tire (stays in Bburg) but get new one for rear wheel at Pueblo, CO
 *	Repair kit/bike pump
 *	Rain cover for the rear rack
-*   First-aid kit
+* First-aid kit
+
+[0]: https://www.amazon.com/gp/product/B0097DUIOE
+[1]: https://www.amazon.com/CueClip-Cue-Clip-Sheet-Holder/dp/B00D3VYBOE
